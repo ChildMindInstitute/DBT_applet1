@@ -2,64 +2,28 @@
     "@context": {
         "@version": 1.1,
         "dbt_behavior_bank": "https://raw.githubusercontent.com/charlie42/DBT_applet1/test-content/activities/dbt_behavior_bank/items/",
-        "complete_homework": {
-            "@id": "dbt_behavior_bank:complete_homework",
-            "@type": "@id"
-        },
-        "socialize_others": {
-            "@id": "dbt_behavior_bank:socialize_others",
-            "@type": "@id"
-        },
-        "conflict_others": {
-            "@id": "dbt_behavior_bank:conflict_others",
-            "@type": "@id"
-        },
-        "conflict_others_number": {
-            "@id": "dbt_behavior_bank:conflict_others_number",
-            "@type": "@id"
-        },
-        "bed_time": {
-            "@id": "dbt_behavior_bank:bed_time",
-            "@type": "@id"
-        },
-        "wake_time": {
-            "@id": "dbt_behavior_bank:wake_time",
-            "@type": "@id"
-        },
-        "hours_slept": {
-            "@id": "dbt_behavior_bank:hours_slept",
-            "@type": "@id"
-        },
-        "shower_duration": {
-            "@id": "dbt_behavior_bank:shower_duration",
-            "@type": "@id"
-        },
-        "self_validation": {
-            "@id": "dbt_behavior_bank:self_validation",
-            "@type": "@id"
-        },
-        "emotion_mind_decisions_number": {
-            "@id": "dbt_behavior_bank:emotion_mind_decisions_number",
-            "@type": "@id"
-        },
-        "screen_time": {
-            "@id": "dbt_behavior_bank:screen_time",
-            "@type": "@id"
-        },
-        "meals_number": {
-            "@id": "dbt_behavior_bank:meals_number",
-            "@type": "@id"
-        },
-        "skin_picking_number": {
-            "@id": "dbt_behavior_bank:skin_picking_number",
-            "@type": "@id"
-        },
         "self_harm_urges": {
             "@id": "dbt_behavior_bank:self_harm_urges",
             "@type": "@id"
         },
         "self_harm_act": {
             "@id": "dbt_behavior_bank:self_harm_act",
+            "@type": "@id"
+        },
+        "suicide_urges": {
+            "@id": "dbt_behavior_bank:suicide_urges",
+            "@type": "@id"
+        },
+        "suicide_act": {
+            "@id": "dbt_behavior_bank:suicide_act",
+            "@type": "@id"
+        },
+        "smoking_urges": {
+            "@id": "dbt_behavior_bank:smoking_urges",
+            "@type": "@id"
+        },
+        "smoking_act": {
+            "@id": "dbt_behavior_bank:smoking_act",
             "@type": "@id"
         }
     }
