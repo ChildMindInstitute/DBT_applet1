@@ -47,10 +47,10 @@
         "order": [
             "self_harm_urges",
             "self_harm_act",
-            "smoking_urges",
-            "smoking_act",
             "suicide_urges",
-            "suicide_act"
+            "suicide_act",
+            "smoking_urges",
+            "smoking_act"
         ],
         "shuffle": false
     }
