@@ -1,0 +1,57 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic",
+        "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/content/activities/dbt_behavior_bank/dbt_behavior_bank_context"
+    ],
+    "@type": "reproschema:Activity",
+    "@id": "dbt_behavior_bank_schema",
+    "skos:prefLabel": "Target Behaviors Bank",
+    "skos:altLabel": "dbt_behavior_bank_schema",
+    "schema:description": "",
+    "schema:schemaVersion": "0.0.1",
+    "schema:version": "0.0.1",
+    "scoringLogic": {},
+    "ui": {
+        "addProperties": [
+            {
+                "variableName": "self_harm_urges",
+                "isAbout": "self_harm_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "self_harm_act",
+                "isAbout": "self_harm_act",
+                "isVis": true
+            },
+            {
+                "variableName": "suicide_urges",
+                "isAbout": "suicide_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "suicide_act",
+                "isAbout": "suicide_act",
+                "isVis": true
+            },
+            {
+                "variableName": "smoking_urges",
+                "isAbout": "smoking_urges",
+                "isVis": true
+            },
+            {
+                "variableName": "smoking_act",
+                "isAbout": "smoking_act",
+                "isVis": true
+            }
+        ],
+        "order": [
+            "self_harm_urges",
+            "self_harm_act",
+            "suicide_urges",
+            "suicide_act",
+            "smoking_urges",
+            "smoking_act"
+        ],
+        "shuffle": false
+    }
+}
