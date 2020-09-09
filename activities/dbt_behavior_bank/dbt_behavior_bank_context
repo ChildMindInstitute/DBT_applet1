@@ -1,7 +1,7 @@
 {
     "@context": {
         "@version": 1.1,
-        "dbt_behavior_bank": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/content/activities/dbt_behavior_bank/items/",
+        "dbt_behavior_bank": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/activities/dbt_behavior_bank/items/",
         "self_harm_urges": {
             "@id": "dbt_behavior_bank:self_harm_urges",
             "@type": "@id"
