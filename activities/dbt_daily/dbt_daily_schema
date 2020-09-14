@@ -78,7 +78,6 @@
                 "isAbout": "smoking_act",
                 "isVis": true
             },
-
             {
                 "variableName": "mindfulness_skills",
                 "isAbout": "mindfulness_skills",
@@ -113,7 +112,7 @@
             "suicide_urges",
             "suicide_act",
             "smoking_urges",
-            "smoking_act"
+            "smoking_act",
             "mindfulness_skills",
             "interpersonal_skills",
             "emotion_regulation",
