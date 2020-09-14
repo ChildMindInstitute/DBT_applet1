@@ -30,52 +30,28 @@
             "@id": "dbt_daily:target_behaviors_instructions",
             "@type": "@id"
         },
-        "suicide_urges": {
-            "@id": "dbt_daily:suicide_urges",
-            "@type": "@id"
-        },
-        "suicide_act": {
-            "@id": "dbt_daily:suicide_act",
-            "@type": "@id"
-        },
-        "self_harm_urges": {
-            "@id": "dbt_daily:self_harm_urges",
+                "self_harm_urges": {
+            "@id": "dbt_behavior_bank:self_harm_urges",
             "@type": "@id"
         },
         "self_harm_act": {
-            "@id": "dbt_daily:self_harm_act",
+            "@id": "dbt_behavior_bank:self_harm_act",
             "@type": "@id"
         },
-        "impulsive_urges": {
-            "@id": "dbt_daily:impulsive_urges",
+        "suicide_urges": {
+            "@id": "dbt_behavior_bank:suicide_urges",
             "@type": "@id"
         },
-        "impulsive_urges_act": {
-            "@id": "dbt_daily:impulsive_urges_act",
+        "suicide_act": {
+            "@id": "dbt_behavior_bank:suicide_act",
             "@type": "@id"
         },
-        "picking_scratching_urges": {
-            "@id": "dbt_daily:picking_scratching_urges",
+        "smoking_urges": {
+            "@id": "dbt_behavior_bank:smoking_urges",
             "@type": "@id"
         },
-        "picking_scratching_act": {
-            "@id": "dbt_daily:picking_scratching_act",
-            "@type": "@id"
-        },
-        "planning_suicide_urges": {
-            "@id": "dbt_daily:planning_suicide_urges",
-            "@type": "@id"
-        },
-        "planning_suicide_act": {
-            "@id": "dbt_daily:planning_suicide_act",
-            "@type": "@id"
-        },
-        "purging_urges": {
-            "@id": "dbt_daily:purging_urges",
-            "@type": "@id"
-        },
-        "purging_act": {
-            "@id": "dbt_daily:purging_act",
+        "smoking_act": {
+            "@id": "dbt_behavior_bank:smoking_act",
             "@type": "@id"
         },
         "mindfulness_skills": {

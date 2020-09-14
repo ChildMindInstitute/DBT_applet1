@@ -23,17 +23,11 @@
                 "variableName": "dbt_daily_goals",
                 "isAbout": "dbt_daily_goals",
                 "isVis": true
-            },
-            {
-                "variableName": "dbt_behavior_bank",
-                "isAbout": "dbt_behavior_bank",
-                "isVis": true
             }
         ],
         "order": [
             "dbt_daily",
-            "dbt_daily_goals",
-            "dbt_behavior_bank"
+            "dbt_daily_goals"
         ],
         "shuffle": false
     }

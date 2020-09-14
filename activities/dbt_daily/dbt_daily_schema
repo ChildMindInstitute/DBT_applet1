@@ -49,16 +49,6 @@
                 "isVis": true
             },
             {
-                "variableName": "suicide_urges",
-                "isAbout": "suicide_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "suicide_act",
-                "isAbout": "suicide_act",
-                "isVis": true
-            },
-            {
                 "variableName": "self_harm_urges",
                 "isAbout": "self_harm_urges",
                 "isVis": true
@@ -69,45 +59,26 @@
                 "isVis": true
             },
             {
-                "variableName": "impulsive_urges",
-                "isAbout": "impulsive_urges",
+                "variableName": "suicide_urges",
+                "isAbout": "suicide_urges",
                 "isVis": true
             },
             {
-                "variableName": "impulsive_urges_act",
-                "isAbout": "impulsive_urges_act",
+                "variableName": "suicide_act",
+                "isAbout": "suicide_act",
                 "isVis": true
             },
             {
-                "variableName": "picking_scratching_urges",
-                "isAbout": "picking_scratching_urges",
+                "variableName": "smoking_urges",
+                "isAbout": "smoking_urges",
                 "isVis": true
             },
             {
-                "variableName": "picking_scratching_act",
-                "isAbout": "picking_scratching_act",
+                "variableName": "smoking_act",
+                "isAbout": "smoking_act",
                 "isVis": true
             },
-            {
-                "variableName": "planning_suicide_urges",
-                "isAbout": "planning_suicide_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "planning_suicide_act",
-                "isAbout": "planning_suicide_act",
-                "isVis": true
-            },
-            {
-                "variableName": "purging_urges",
-                "isAbout": "purging_urges",
-                "isVis": true
-            },
-            {
-                "variableName": "purging_act",
-                "isAbout": "purging_act",
-                "isVis": true
-            },
+
             {
                 "variableName": "mindfulness_skills",
                 "isAbout": "mindfulness_skills",
@@ -137,18 +108,12 @@
             "anger",
             "shame_guilt",
             "target_behaviors_instructions",
-            "suicide_urges",
-            "suicide_act",
             "self_harm_urges",
             "self_harm_act",
-            "impulsive_urges",
-            "impulsive_urges_act",
-            "picking_scratching_urges",
-            "picking_scratching_act",
-            "planning_suicide_urges",
-            "planning_suicide_act",
-            "purging_urges",
-            "purging_act",
+            "suicide_urges",
+            "suicide_act",
+            "smoking_urges",
+            "smoking_act"
             "mindfulness_skills",
             "interpersonal_skills",
             "emotion_regulation",
