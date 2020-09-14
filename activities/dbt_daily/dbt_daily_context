@@ -30,28 +30,28 @@
             "@id": "dbt_daily:target_behaviors_instructions",
             "@type": "@id"
         },
-                "self_harm_urges": {
-            "@id": "dbt_behavior_bank:self_harm_urges",
+        "self_harm_urges": {
+            "@id": "dbt_daily:self_harm_urges",
             "@type": "@id"
         },
         "self_harm_act": {
-            "@id": "dbt_behavior_bank:self_harm_act",
+            "@id": "dbt_daily:self_harm_act",
             "@type": "@id"
         },
         "suicide_urges": {
-            "@id": "dbt_behavior_bank:suicide_urges",
+            "@id": "dbt_daily:suicide_urges",
             "@type": "@id"
         },
         "suicide_act": {
-            "@id": "dbt_behavior_bank:suicide_act",
+            "@id": "dbt_daily:suicide_act",
             "@type": "@id"
         },
         "smoking_urges": {
-            "@id": "dbt_behavior_bank:smoking_urges",
+            "@id": "dbt_daily:smoking_urges",
             "@type": "@id"
         },
         "smoking_act": {
-            "@id": "dbt_behavior_bank:smoking_act",
+            "@id": "dbt_daily:smoking_act",
             "@type": "@id"
         },
         "mindfulness_skills": {
