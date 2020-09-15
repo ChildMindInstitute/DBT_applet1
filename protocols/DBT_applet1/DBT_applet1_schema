@@ -5,7 +5,7 @@
     ],
     "@type": "reproschema:Protocol",
     "@id": "DBT_applet1_schema",
-    "skos:prefLabel": "DBT Daily Diary Card v1.06",
+    "skos:prefLabel": "DBT Applet 1",
     "skos:altLabel": "DBT_applet1_schema",
     "schema:description": "Record your daily progress with Dialectical Behavorial Therapy",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/README.md",
