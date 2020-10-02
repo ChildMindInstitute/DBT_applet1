@@ -7,7 +7,7 @@
     "@id": "DBT_applet1_schema",
     "skos:prefLabel": "DBT Applet 1",
     "skos:altLabel": "DBT_applet1_schema",
-    "schema:description": "Record your daily progress with Dialectical Behavorial Therapy",
+    "schema:description": "Record your daily progress with Dialectical Behavioral Therapy",
     "landingPage": "https://raw.githubusercontent.com/ChildMindInstitute/DBT_applet1/master/README.md",
     "schema:schemaVersion": "0.0.1",
     "schema:version": "0.0.1",
